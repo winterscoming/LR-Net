@@ -5,3 +5,4 @@ LR-Net: Lossless Feature Fusion and Revised SIoU for Small Object Detection
 
 # Result
 ![image](https://raw.githubusercontent.com/winterscoming/LR-Net/main/ultralytics/assets/bus.jpg)
+![image](1.png)
